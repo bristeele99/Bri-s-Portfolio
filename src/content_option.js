@@ -1,60 +1,64 @@
-const logotext = "JOHN";
+const logotext = "Brianna";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Brianna Steele",
+    description: "I’m Brianna Steele cybersecurity professional _ Cloud Dev,currently working in Maryland, USA",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Brianna Steele",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I Develop Cloud Infrastructure",
+        second: "I'm a Tech Geek",
+        third: "I Love Coding",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Cybersecurity professional skilled in Linux, Windows, and cloud security with hands-on experience in network security and data analysis. Experienced in managing teams of 50+ employees. Seeking a role to apply technical and leadership skills in tech support and system security.",
+    your_img_url: "https://res.cloudinary.com/drewskljl/image/upload/v1726692258/20231021_134236_nyzru4.jpg",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A bit about my self",
+    aboutme: "Learning about computers and cybersecurity has been life changing. As a career switcher, I learned I love adapting to new environments, learning and building things. Whether it's firewalls, websites, or cloud infrastructure, I get excited to start a project and complete it the right way.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Administrative Assitant",
+        where: "The Lutheran Church of Saint Andrew",
+        date: "2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Employee at Morning Star",
+        where: "MSH LLC",
+        date: "2022",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
+        jobtitle: "Family Support Liason",
+        where: "SEEK Arizona",
         date: "2019",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Windows Access Manager",
+        value: 85,
+    },
+    {
+        name: "Linux",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
+        name: "SecurityOnion",
         value: 80,
     },
     {
-        name: "React",
+        name: "Wireshark",
+        value: 80,
+    },
+    {
+        name: "Python",
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "JS, CSS/HTML",
+        value: 75,
     },
 ];
 
@@ -73,9 +77,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/drewskljl/image/upload/v1726695029/CTF_di4pt0.jpg",
+        description: "Participated in Capture the Flag Competitions.",
+        link: "https://res.cloudinary.com/drewskljl/image/upload/v1726695486/image_wfsx8r.png",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
@@ -136,21 +140,20 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "briannaanulo@gmail.com",
+    YOUR_FONE: "(480)565-9285",
+    description: "I’m eager to connect with anyone interested in partnering with me for cybersecurity projects where I can contribute my skills ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_y1m1e8a",
+    YOUR_TEMPLATE_ID: "template_lnnbmsc",
+    YOUR_USER_ID: "cJuPYtLmYpk-d-nEK",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/bristeele99",
+    linkedin: "www.linkedin.com/in/brianna-anulo",
+    twitter: "https://x.com/bristeele99",
 };
 export {
     meta,

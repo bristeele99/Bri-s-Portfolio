@@ -58,15 +58,18 @@
 }
 
 .section-title {
+    visibility: hidden;
     font-size: 45px;
 }
 
 .service__title {
+    visibility: hidden;
     padding: 8px 0;
     border-bottom: solid 2px var(--secondary-color);
 }
 
 .service-section .service-category-title {
+    visibility: hidden;
     padding-bottom: 4px;
 }
 
