@@ -12,7 +12,7 @@ const introdata = {
         third: "I Love Coding",
     },
     description: "Cybersecurity professional skilled in Linux, Windows, and cloud security with hands-on experience in network security and data analysis. Experienced in managing teams of 50+ employees. Seeking a role to apply technical and leadership skills in tech support and system security.",
-    your_img_url: "https://res.cloudinary.com/drewskljl/image/upload/v1726692258/20231021_134236_nyzru4.jpg",
+    your_img_url: "https://res.cloudinary.com/drewskljl/image/upload/v1710631453/20231021_134239_h1qu4x.jpg",
 };
 
 const dataabout = {
