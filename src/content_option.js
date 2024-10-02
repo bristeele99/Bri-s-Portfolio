@@ -83,7 +83,7 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Building a Secure Web App in Azure",
         link: "#",
     },
     {
