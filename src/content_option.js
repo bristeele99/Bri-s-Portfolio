@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about my self",
-    aboutme: "Learning about computers and cybersecurity has been life changing. As a career switcher, I learned I love adapting to new environments, learning and building things. Whether it's firewalls, websites, or cloud infrastructure, I get excited to start a project and complete it the right way.",
+    aboutme: "Learning about computers and cybersecurity has scracted the ever present itch to grow and challenge myself.  Whether it's firewalls, websites, or cloud infrastructure, I get excited to try new things and learn more.",
 };
 const worktimeline = [{
         jobtitle: "Administrative Assitant",
@@ -141,8 +141,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "briannaanulo@gmail.com",
-    YOUR_FONE: "(480)565-9285",
-    description: "I’m eager to connect with anyone interested in partnering with me for cybersecurity projects where I can contribute my skills ",
+    description: "I’m eager to connect with anyone interested in working together on cybersecurity or other computer related projects",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_y1m1e8a",
@@ -152,7 +151,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/bristeele99",
-    linkedin: "www.linkedin.com/in/brianna-anulo",
+    linkedin: "https://www.linkedin.com/in/brianna-anulo",
     twitter: "https://x.com/bristeele99",
 };
 export {
