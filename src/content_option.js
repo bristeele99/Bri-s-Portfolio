@@ -77,9 +77,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://res.cloudinary.com/drewskljl/image/upload/v1726695029/CTF_di4pt0.jpg",
-        description: "Participated in Capture the Flag Competitions.",
-        link: "https://res.cloudinary.com/drewskljl/image/upload/v1726695486/image_wfsx8r.png",
+        img: "https://res.cloudinary.com/drewskljl/image/upload/v1728936639/Screenshot_2024-10-14_160935_rbntbu.png",
+        description: "Azure Web App Development",
+        link: "project1",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",

@@ -38,7 +38,12 @@ export const Project1 = () => {
                   width="100%"  /* Ensures the video fits the container */
                   style={{ maxWidth: "600px" }}  /* Limits video width for better layout */
                 ></video>
+                  <div className="po_itemPROJECT1">In the above video, I quickly spun up a web app using Azure Web App Services. I then pulled a Docker image that contained a security blog for someone named Robert, effectively containerizing the application. After configuring the image, I was able to customize it according to my personal preferences.</div>
+                  
+                  <img  className="po_itemPROJECT1" src="https://res.cloudinary.com/drewskljl/image/upload/v1728936639/Screenshot_2024-10-14_160935_rbntbu.png" />
+                  <img className="po_itemPROJECT1" src="https://res.cloudinary.com/drewskljl/image/upload/v1728936639/Screenshot_2024-10-14_160953_bajsqj.png" />
               </div>
+              
             );
           })}
         </div>
