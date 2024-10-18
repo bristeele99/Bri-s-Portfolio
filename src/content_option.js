@@ -79,7 +79,7 @@ const services = [{
 const dataportfolio = [{
         img: "https://res.cloudinary.com/drewskljl/image/upload/v1728936639/Screenshot_2024-10-14_160935_rbntbu.png",
         description: "Azure Web App Development",
-        link: "project1",
+        link: "/project1",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
