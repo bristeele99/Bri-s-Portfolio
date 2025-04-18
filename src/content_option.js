@@ -7,11 +7,11 @@ const meta = {
 const introdata = {
     title: "I’m Brianna Steele",
     animated: {
-        first: "I Develop Cloud Infrastructure",
-        second: "I'm a Tech Geek",
-        third: "I Love Coding",
+        first: "I Develop and Build",
+        second: "I'm a Cloud Geek",
+        third: "I Love Incident Response",
     },
-    description: "Cybersecurity professional skilled in Linux, Windows, and cloud security with hands-on experience in network security and data analysis. Experienced in managing teams of 50+ employees. Seeking a role to apply technical and leadership skills in tech support and system security.",
+    description: "Cybersecurity professional with a strong foundation in Linux, Windows, and cloud security, combined with hands-on experience in threat detection and vulnerability management. Proven ability to lead and support teams, having managed over 50 employees. Eager to contribute both technical expertise and leadership strengths in a role focused on tech support and system security.",
     your_img_url: "https://res.cloudinary.com/drewskljl/image/upload/v1710631453/20231021_134239_h1qu4x.jpg",
 };
 
