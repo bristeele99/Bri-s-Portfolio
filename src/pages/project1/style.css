@@ -16,7 +16,7 @@
     transition: 0.3s ease;
     font-size: 1em;
     color: var(--bg-color);
-    min-height: 300px; /* Keeps the minimum height */
+    min-height: 200px; /* Keeps the minimum height */
 }
 
 .po_itemPROJECT1 img {

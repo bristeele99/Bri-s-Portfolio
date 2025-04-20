@@ -7,12 +7,12 @@ const meta = {
 const introdata = {
     title: "I’m Brianna Steele",
     animated: {
-        first: "I Develop and Build",
-        second: "I'm a Cloud Geek",
-        third: "I Love Incident Response",
+        first: "I Develop Seure Networks",
+        second: "I'm a Cybersecurity Professional",
+        third: "I Love Building Things",
     },
     description: "Cybersecurity professional with a strong foundation in Linux, Windows, and cloud security, combined with hands-on experience in threat detection and vulnerability management. Proven ability to lead and support teams, having managed over 50 employees. Eager to contribute both technical expertise and leadership strengths in a role focused on tech support and system security.",
-    your_img_url: "https://res.cloudinary.com/drewskljl/image/upload/v1710631453/20231021_134239_h1qu4x.jpg",
+    your_img_url: "https://res.cloudinary.com/drewskljl/image/upload/v1745111980/photo_2025-04-19_21-18-09golden_ndwazs.jpg",
 };
 
 const dataabout = {
@@ -77,17 +77,17 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://res.cloudinary.com/drewskljl/image/upload/v1745112146/Screenshot_2025-04-17_205117gray_ttvcfs.png",
+        description: "Help Desk Desktop Simulation",
         link: "/project1",
     },
     {
-        img: "https://res.cloudinary.com/drewskljl/image/upload/v1745110978/Screenshot_2025-04-18_010515resizemore_aszevg.png",
+        img: "https://res.cloudinary.com/drewskljl/image/upload/v1745112148/Screenshot_2025-04-18_010515resizemoregray_xxhmmg.png",
         description: "WannaCry Ransomware Analysis",
         link: "/project2",
     },
     {
-        img: "https://res.cloudinary.com/drewskljl/image/upload/v1745111120/Screenshot_2024-10-14_160935moreresize_jsfxs5.png",
+        img: "https://res.cloudinary.com/drewskljl/image/upload/v1745112145/Screenshot_2024-10-14_160935gray_pudzhh.png",
         description: "Azure Web App Devlopment",
         link: "/project3",
     },
