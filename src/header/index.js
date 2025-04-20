@@ -51,9 +51,9 @@ const Headermain = () => {
                       <Link onMouseOver={togglePortfolioDropdown}  onClick={handleToggle} to="/portfolio" className="my-3">Portfolio</Link>
                       {isPortfolioOpen && (
                         <ul className="dropdown-content">
-                          <li><Link to="/project1" onClick={() => { closeDropdown(); handleToggle(); }}>Project 1</Link></li>
-                          <li><Link to="/project2" onClick={() => { closeDropdown(); handleToggle(); }}>Project 2</Link></li>
-                          <li><Link to="/project3" onClick={() => { closeDropdown(); handleToggle(); }}>Project 3</Link></li>
+                          <li><Link to="/project1" onClick={() => { closeDropdown(); handleToggle(); }}>Help Desk Simulation</Link></li>
+                          <li><Link to="/project2" onClick={() => { closeDropdown(); handleToggle(); }}>Malware Analysis</Link></li>
+                          <li><Link to="/project3" onClick={() => { closeDropdown(); handleToggle(); }}>Azure Web App</Link></li>
                           <li><Link to="/project4" onClick={() => { closeDropdown(); handleToggle(); }}>Project 4</Link></li>
                         </ul>
                       )}

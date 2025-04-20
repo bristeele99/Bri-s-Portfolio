@@ -1,4 +1,4 @@
-.po_items_ho {
+.po_items_hoPROJECT2 {
     column-width: 15em;
     -moz-column-width: 15em;
     -webkit-column-width: 15em;
@@ -7,7 +7,7 @@
     -webkit-column-gap: 4rem;
 }
 
-.po_item {
+.po_itemPROJECT2 {
     display: inline-block;
     width: 100%;
     text-align: center;
@@ -17,11 +17,11 @@
     padding: 6px;
     border: 1px solid var(--secondary-color);
     transition: 0.3s ease;
-    font-size: 0;
+    font-size: 1rem;
     min-height: 300px;
 }
 
-.po_item img {
+.po_itemPROJECT2 img{
     max-width: 100%;
 }
 

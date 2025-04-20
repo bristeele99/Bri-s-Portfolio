@@ -20,9 +20,9 @@ const dataabout = {
     aboutme: "Learning about computers and cybersecurity has scracted the ever present itch to grow and challenge myself.  Whether it's firewalls, websites, or cloud infrastructure, I get excited to try new things and learn more.",
 };
 const worktimeline = [{
-        jobtitle: "Administrative Assitant",
+        jobtitle: "Music Teacher and Worhsip Leader",
         where: "The Lutheran Church of Saint Andrew",
-        date: "2024",
+        date: "2025",
     },
     {
         jobtitle: "Employee at Morning Star",
@@ -77,19 +77,19 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://res.cloudinary.com/drewskljl/image/upload/v1728936639/Screenshot_2024-10-14_160935_rbntbu.png",
-        description: "Azure Web App Development",
+        img: "https://picsum.photos/400/400/?grayscale",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "/project1",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "Building a Secure Web App in Azure",
-        link: "#",
+        img: "https://res.cloudinary.com/drewskljl/image/upload/v1745110978/Screenshot_2025-04-18_010515resizemore_aszevg.png",
+        description: "WannaCry Ransomware Analysis",
+        link: "/project2",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/drewskljl/image/upload/v1745111120/Screenshot_2024-10-14_160935moreresize_jsfxs5.png",
+        description: "Azure Web App Devlopment",
+        link: "/project3",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
