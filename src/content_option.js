@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Brianna Steele",
     animated: {
-        first: "I Develop Seure Networks",
+        first: "I Develop Secure Networks",
         second: "I'm a Cybersecurity Professional",
         third: "I Love Building Things",
     },
