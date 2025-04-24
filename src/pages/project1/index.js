@@ -20,7 +20,7 @@ export const Project1 = () => {
       <Container className="About-header">
         <Helmet>
           <meta charSet="utf-8" />
-          <title> Execution and Analysis of WannaCry Ransomware | {meta.title} </title>{" "}
+          <title> Help Desk Desktop Simulation | {meta.title} </title>{" "}
           <meta name="description" content={meta.description} />
         </Helmet>
         <Row className="mb-5 mt-3 pt-md-3">
@@ -66,16 +66,17 @@ export const Project1 = () => {
                   {/* <img  className="po_itemPROJECT1" src="https://res.cloudinary.com/drewskljl/image/upload/v1745106610/Screenshot_2024-12-05_190405highlight_ka9xui.png" /> */}
                   <div className="po_itemPROJECT1">Simulated policy corruption and reset local GPOs using gpupdate /force and secedit tools to resolve a broken login or configuration issue.</div>
                   
-                  <div className="po_itemPROJECT2">
-                  GitHub Project: https://github.com/bristeele99/tier1-helpdesk-project/tree/main{" "}
                   <a 
                     href="https://github.com/bristeele99/tier1-helpdesk-project/tree/main" 
                     target="_blank" 
                     rel="noopener noreferrer"
+                    style={{ textDecoration: 'none', color: 'inherit' }} // optional styling
                   >
-                    https://github.com/bristeele99/tier1-helpdesk-project/tree/main
+                    <div className="po_itemPROJECT2">
+                      GitHub Project: https://github.com/bristeele99/tier1-helpdesk-project/tree/main
+                    </div>
                   </a>
-                  </div>
+
 
               </div>
               
