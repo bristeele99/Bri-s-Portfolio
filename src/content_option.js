@@ -11,7 +11,7 @@ const introdata = {
         second: "I'm a Cybersecurity Professional",
         third: "I Love Building Things",
     },
-    description: "Cybersecurity professional with a strong foundation in Linux, Windows, and cloud security, combined with hands-on experience in threat detection and vulnerability management. Proven ability to lead and support teams, having managed over 50 employees. Eager to contribute both technical expertise and leadership strengths in a role focused on tech support and system security.",
+    description: " I’ve been diving deep into cybersecurity with a strong focus on protecting people, not just systems. I’ve built hands-on experience through labs involving malware analysis, endpoint protection, and phishing defense, and I’m passionate about roles that let me defend users in a real, human way. I’m looking for opportunities where I can grow while contributing to a team that values both technical skill and purpose.",
     your_img_url: "https://res.cloudinary.com/drewskljl/image/upload/v1745111980/photo_2025-04-19_21-18-09golden_ndwazs.jpg",
 };
 
