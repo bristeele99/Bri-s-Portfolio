@@ -11,7 +11,7 @@ const introdata = {
         second: "I'm a Cybersecurity Professional",
         third: "I Love Building Things",
     },
-    description: " I\’ve been diving deep into cybersecurity with a strong focus on protecting people, not just systems. I\’ve built hands-on experience through labs involving malware analysis, endpoint protection, and phishing defense, and I\’m passionate about roles that let me defend users in a real, human way. I\’m looking for opportunities where I can grow while contributing to a team that values both technical skill and purpose.",
+    description: " Welcome to my portfolio website. I\’ve been diving deep into cybersecurity. I particularly love the focus in Cyber of protecting people, not just systems. I\’ve built hands-on experience through labs involving malware analysis, endpoint protection, and phishing defense, and I\’m passionate about roles that let me defend users in a real, human way. I\’m looking for opportunities where I can grow while contributing to a team that values both technical skill and purpose.",
     your_img_url: "https://res.cloudinary.com/drewskljl/image/upload/v1745111980/photo_2025-04-19_21-18-09golden_ndwazs.jpg",
 };
 
