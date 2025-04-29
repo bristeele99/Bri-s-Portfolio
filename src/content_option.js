@@ -78,7 +78,7 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://res.cloudinary.com/drewskljl/image/upload/v1745112146/Screenshot_2025-04-17_205117gray_ttvcfs.png",
-        description: "Help Desk Desktop Simulation",
+        description: "Azure Help Desk Simulation",
         link: "/project1",
     },
     {

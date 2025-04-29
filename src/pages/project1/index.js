@@ -20,7 +20,7 @@ export const Project1 = () => {
       <Container className="About-header">
         <Helmet>
           <meta charSet="utf-8" />
-          <title> Help Desk Desktop Simulation | {meta.title} </title>{" "}
+          <title> Azure Help Desk Simulation | {meta.title} </title>{" "}
           <meta name="description" content={meta.description} />
         </Helmet>
         <Row className="mb-5 mt-3 pt-md-3">
@@ -33,10 +33,13 @@ export const Project1 = () => {
           {project1photos.map((data, i) => {
             return (
               <div key={i} className="po_itemPROJECT1">
-                  <div className="display-6">Help Desk Desktop Simulation (Tier1)</div>
-                  {/* <img  className="po_itemPROJECT1" src="https://res.cloudinary.com/drewskljl/image/upload/v1745105193/Screenshot_2025-04-19_192535_fm2t23.png" /> */}
+                  <div className="display-6"> Azure Help Desk Simulation (Tier1)</div>
+                  <img  className="po_itemPROJECT1" src="https://res.cloudinary.com/drewskljl/image/upload/v1745959813/Screenshot_2025-04-29_164854_cs1hft.png" />
+                  <div className="fs-3 mb-5"> In this project, I wanted to simulate a helpdesk environment and test my skills as a desk assistant. This projects shows how I configured a common cloud helpdesk environment and troubleshot fake tickets for it.</div>
                   <div className="display-6">1. Deployed Windows Server as a Domain Controller</div>
+                  {/* <img  className="po_itemPROJECT1" src="https://res.cloudinary.com/drewskljl/image/upload/v1745105193/Screenshot_2025-04-19_192535_fm2t23.png" /> */}
                   <div className="po_itemPROJECT1">Installed the Active Directory Domain Services role and configured a new forest and domain (helpdesk.local). This domain forms the foundation of user and device management for the simulated environment.</div>
+                  
                   <div className="display-6">2. Configured DNS and DHCP for Internal Network Communication</div>
                   {/* <img  className="po_itemPROJECT1" src="https://res.cloudinary.com/drewskljl/image/upload/v1745105193/Screenshot_2025-04-19_192535_fm2t23.png" /> */}
                   <div className="po_itemPROJECT1">
