@@ -55,7 +55,16 @@ export const Project1 = () => {
 
                   <div className="display-6">4. Created and Linked Group Policies</div>
                   {/* <img  className="po_itemPROJECT1" src="https://res.cloudinary.com/drewskljl/image/upload/v1745105835/Screenshot_2024-12-07_004138highlight_zbsvkb.png" /> */}
-                  <div className="po_itemPROJECT1">Designed and applied GPOs to enforce password complexity, disable USB storage, and customize desktop settings for standard users.</div>
+                  <div className="po_itemPROJECT1">Designed and applied GPOs to enable autolock, log logons for all users using scripting, disable USB storage, and customize desktop settings for standard users. Below only shows disabling storage, but you can find all the mardown and additional screenshots on my- 
+                     <a 
+                    href="https://github.com/bristeele99/tier1-helpdesk-project/tree/main" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    style={{ textDecoration: 'none', color: 'blue' }} // optional styling
+                    >
+                      github-project.
+                    </a> 
+                  </div>
 
                   <div className="display-6">5. Provisioned Help Desk Users in Active Directory</div>
                   {/* <img  className="po_itemPROJECT1" src="https://res.cloudinary.com/drewskljl/image/upload/v1745105980/Screenshot_2024-12-07_011010_ukomp9.png" /> */}
