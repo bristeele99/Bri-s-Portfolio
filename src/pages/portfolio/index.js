@@ -21,7 +21,7 @@ export const Portfolio = () => {
           </Col>
         </Row>
         <div className="mb-5 po_items_ho">
-          {dataportfolio.map((data, i) => {
+          {dataportfolio.slice(0,4).map((data, i) => {
             return (
               <div key={i} className="po_item">
                 <img src={data.img} alt="" />
